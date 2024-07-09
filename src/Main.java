@@ -6,7 +6,8 @@ public class Main {
             @Override
             public void run() {
                 //display our weather app gui
-                new WeatherAppGui().setVisible(true);            }
+                new WeatherAppGui().setVisible(true);
+            }
         });
     }
 }
